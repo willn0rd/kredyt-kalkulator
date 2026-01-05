@@ -1,0 +1,5 @@
+mBank 6.83
+Millennium 8.88
+Santander 7.57
+Alior Bank 7.22
+ING 7.74
