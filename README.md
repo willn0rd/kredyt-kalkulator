@@ -8,3 +8,6 @@ It compares current (at the moment of creation) interests from a few most popula
 
 ## Notes
 You can find the CLI app in folder called kredyt. 
+
+## Disclaimer
+It should not be your only tool when comparing offers, it was meant to give you a rough perspective without collecting any of your data.
